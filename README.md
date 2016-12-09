@@ -1,6 +1,6 @@
 #GuardBot
 
-##**Convolutional Neural Networks**, **Video Livestreaming**, and **Image Modeling/Processing**....and a **GroupMe Bot?**
+##**Video Livestreaming**, **Deep Learning/Computer Vision**....and a **GroupMe Bot?**
 
 ###How could these _possibly_ fit together? Let us explain.
 
